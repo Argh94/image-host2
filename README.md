@@ -2,6 +2,12 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Argh94&repo=image-host2&label=ProfileViews)
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/Argh94/image-host2/main/image/project-preview.jpg" alt="نمایی از پروژه ۱" width="45%">
+  <img src="https://raw.githubusercontent.com/Argh94/image-host2/main/image/project-preview2.jpg" alt="نمایی از پروژه ۲" width="45%">
+</div>
+
+
 ## توضیحات
 این پروژه یک ابزار ساده و کاربردی برای آپلود تصاویر به یک ریپازیتوری GitHub است که با استفاده از Cloudflare Workers پیاده‌سازی شده. این ابزار به شما اجازه می‌دهد تصاویر رو از دستگاه‌تون انتخاب کنید، پیش‌نمایششون رو ببینید، و سپس به صورت خودکار توی یه ریپازیتوری GitHub آپلود کنید. لینک مستقیم تصویر هم بعد از آپلود به شما نمایش داده می‌شه تا بتونید ازش استفاده کنید.
 
